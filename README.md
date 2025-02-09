@@ -1,4 +1,4 @@
-*Aplicación para Dividir una Cuenta de Restaurante entre Amigos*
+# Aplicación para Dividir una Cuenta de Restaurante entre Amigos
 
 **Descripción**
 
