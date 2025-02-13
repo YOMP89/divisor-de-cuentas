@@ -1,5 +1,6 @@
 # Aplicación para Dividir una Cuenta de Restaurante entre Amigos
 
+![Pantallazo del proyecto](pantallazoProyecto.png)
 **Descripción**
 
 Esta aplicación permite calcular de manera sencilla y rápida cuánto debe pagar cada amigo al dividir una cuenta de restaurante. Se desarrolla utilizando HTML, CSS y JavaScript (archivos separados) para una estructura organizada y fácil mantenimiento.
